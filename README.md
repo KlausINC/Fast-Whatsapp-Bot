@@ -13,6 +13,14 @@ npm update
 ```
 ---------
 
+[ INSTALLING WHATSAPP BOT ]
+
+```bash
+Start kurulum.bat When It's Over
+Start baslat.bat
+```
+---------
+
 ## FOR WINDOWS
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
@@ -33,6 +41,14 @@ node app.js
 ### `Numbers.txt`
 
 Write your phone number in ```905555555555``` Format 
+
+### `Message`
+
+App.js:48:115 - `https://api.whatsapp.com/send?phone=${element}&text=EXAMPLE`
+
+### `Photo`
+
+App.js:48:59 - await dc.accept(["1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg"])
 
 ### `Gonderildi.txt`
  
