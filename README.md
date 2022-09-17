@@ -6,7 +6,7 @@ Fast WhatsApp Bot
 
 ## INSTALL ON WİNDOWS
 
-[ INSTALLING UBUNTU ]
+[ INSTALLING WİNDOWS ]
 
 ```bash
 gh repo clone KlausINC/Fast-Whatsapp-Bot
@@ -15,7 +15,7 @@ npm update
 ```
 ---------
 
-## FOR WINDOWS/VPS/RDP USER
+## FOR WINDOWS
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -42,9 +42,9 @@ Write your phone number in ```905555555555``` Format
 
 ---------
 
-<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://github.com/KlausINC"><img src="https://avatars.githubusercontent.com/u/95226291?v=4" width="100" height="100"></a> | [![Yusufglc](https://github.com/Nurutomo.png?size=100)](https://github.com/yusufglc) 
 ----|----
-[Klausfx](https://klausfx.com/) | [Yusufglc](https://github.com/Nurutomo) 
+[Klausfx](https://github.com/KlausINC) | [Yusufglc](https://github.com/yusuflc) 
 Powered by XTEAM | Author / Creator 
 
 
