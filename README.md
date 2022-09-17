@@ -42,10 +42,10 @@ Write your phone number in ```905555555555``` Format
 
 ---------
 
-<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) |
-----|----|----|----
-[Klausfx](https://klausfx.com/) | [Yusufglc](https://github.com/Nurutomo) |
-Powered by XTEAM | Author / Creator |
+<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+----|----
+[Klausfx](https://klausfx.com/) | [Yusufglc](https://github.com/Nurutomo) 
+Powered by XTEAM | Author / Creator 
 
 
 NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
