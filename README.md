@@ -45,7 +45,7 @@ Write your phone number in ```905555555555``` Format
 <a href="https://github.com/KlausINC"><img src="https://avatars.githubusercontent.com/u/95226291?v=4" width="100" height="100"></a> | [![Yusufglc](https://github.com/Nurutomo.png?size=100)](https://github.com/yusufglc) 
 ----|----
 [Klausfx](https://github.com/KlausINC) | [Yusufglc](https://github.com/yusuflc) 
-Powered by XTEAM | Author / Creator 
+Powered by Klausfx | Author / Creator 
 
 
 NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
