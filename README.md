@@ -48,6 +48,6 @@ Write your phone number in ```905555555555``` Format
 Powered by Klausfx | Author / Creator 
 
 
-NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
+NOTE: This project will not maintained after `30 Sept 2022`, that means no update. Feel free to anyone to continue this project :)
 
 Best Regards. KlausINC.
