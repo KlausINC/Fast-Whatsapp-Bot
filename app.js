@@ -29,15 +29,19 @@ async function start() {
             }
         }
         if (elementK == 0) {
-            console.log(complatetwo.length)
+          
             if (complatetwo.length == 0) {
-                fs.appendFile('gonderildi.txt', element+'\n', (err) => {
+          
+
+              
+
+                fs.appendFile('gonderildi.txt', element+'\n\n', (err) => {
                     if (err)
                         throw err;
                 });
             }
             else {
-                fs.appendFile('gonderildi.txt', '\n'+element+'\n', (err) => {
+                fs.appendFile('gonderildi.txt', element+'\n', (err) => {
                     if (err)
                         throw err;
                 });
